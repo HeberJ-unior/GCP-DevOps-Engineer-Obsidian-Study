@@ -11,10 +11,14 @@
             "id": "f6ff3bd327b7dc8a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Professional Cloud DevOps Engineer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Professional Cloud DevOps Engineer"
             }
           }
         ]
