@@ -7,5 +7,8 @@
   "obsidian-outliner",
   "shiki-highlighter",
   "templater-obsidian",
-  "obsidian-text-format"
+  "obsidian-text-format",
+  "extract-url",
+  "obsidian-link-embed",
+  "links"
 ]
